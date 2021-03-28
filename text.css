@@ -1,0 +1,44 @@
+@charset "UTF-8"
+
+head {
+　background-image:　url(https://www.haikei2-sozai.com/img/gradation03.jpg);
+　background-position:　center　top;
+　background₋attachment:　fixed；
+　background₋size:　100%　auto;
+}
+
+body { 
+　background-color: #cccccc;
+}
+
+.main {
+  width: 700px;
+  margin: 0 10px;
+  float: left;
+}
+
+.sidebar{
+  width: "200px;
+  margin: 0 10px 0 30px;
+  float: right;
+}
+
+#黒池　愛、　黒珠　霊歌、成れの果てチャンネル {
+  background-image: url(http://gahag.net/img/201604/14s/gahag-0075813305-1.png);=
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: 100% auto;
+}
+
+a image:hover {
+  opacity: 0.8
+}
+
+
+.rightber {
+　width: 900px;
+  margin: 0 10px 0 60px
+  float: right
+}
+
